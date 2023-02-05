@@ -354,7 +354,7 @@ extension SchoolListViewModelTests {
         "school_name": "HIGH SCHOOL FOR HEALTH PROFESSIONS AND HUMAN SERVICES",
         "num_of_sat_test_takers": "336",
         "sat_critical_reading_avg_score": "429",
-        "sat_math_avg_score": "449",
+        "sat_math_avg_score": "439",
         "sat_writing_avg_score": "428"
         },
         {
