@@ -75,7 +75,7 @@ extension SchoolListViewModelTests {
         "num_of_sat_test_takers": "91",
         "sat_critical_reading_avg_score": "383",
         "sat_math_avg_score": "423",
-        "sat_writing_avg_score": "366"
+        "sat_writing_avg_score": "356"
         },
         {
         "dbn": "01M450",
@@ -354,7 +354,7 @@ extension SchoolListViewModelTests {
         "school_name": "HIGH SCHOOL FOR HEALTH PROFESSIONS AND HUMAN SERVICES",
         "num_of_sat_test_takers": "336",
         "sat_critical_reading_avg_score": "429",
-        "sat_math_avg_score": "449",
+        "sat_math_avg_score": "429",
         "sat_writing_avg_score": "428"
         },
         {
